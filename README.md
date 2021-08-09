@@ -1,9 +1,10 @@
 # moments-log-website
 
-This is a MERN (moongose + express + react + node) based full-stack project.
+This is a full-stack project for sharing and posting on travel blogs and moments. Implemented with MERN (moongose + express + react + node) structure.
 The website is responsive, and enables main feature of:
 - post info and image
 - authentication
+- likes among posts
 - search
 - pagination
 - suggesting similar posts
